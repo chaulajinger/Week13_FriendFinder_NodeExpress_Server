@@ -1,0 +1,19 @@
+@import url('bootstrap.min.css');
+
+body {
+    background: url(sweettexture.jpg);
+  }
+
+#background{
+  /*  background:url('../images/background.jpg') no-repeat center center background-image: url('../images/background.jpg');;
+    background-position: 80%;
+    height: 500px;*/
+    height: 100%;
+    background: linear-gradient(90deg, #FFC0CB 50%, #00FFFF 50%);
+}
+
+.jumbotron {
+  
+   background: rgb(172, 93, 142); /* This is for ie8 and below */
+   background: rgba(200, 54, 54, 0.5);
+}
